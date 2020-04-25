@@ -1,0 +1,99 @@
+if Fully_covered  is visited --> 97 % that SC_Not_Concentrated  is visited [support = 69.45%]
+======================================================
+if SC_Class_2  is visited --> 96 % that General_Class_2  is visited [support = 42.54%]
+======================================================
+if General_Class_2  is visited --> 97 % that SC_Not_Concentrated  is visited [support = 78.13%]
+======================================================
+if ST_Class_1  is visited --> 90 % that General_Class_2  is visited [support = 62.45%]
+======================================================
+if General_Class_2  is visited --> 95 % that ST_Not_Concentrated  is visited [support = 76.42%]
+======================================================
+if ST_Not_Concentrated  is visited --> 91 % that General_Class_2  is visited [support = 76.42%]
+======================================================
+if SC_Class_2  is visited --> 100 % that SC_Not_Concentrated  is visited [support = 44.27%]
+======================================================
+if SC_Class_2  is visited --> 93 % that ST_Not_Concentrated  is visited [support = 41.26%]
+======================================================
+if ST_Class_1  is visited --> 97 % that SC_Not_Concentrated  is visited [support = 66.86%]
+======================================================
+if ST_Not_Concentrated  is visited --> 97 % that SC_Not_Concentrated  is visited [support = 81.31%]
+======================================================
+if ST_Class_1  is visited --> 99 % that ST_Not_Concentrated  is visited [support = 68.77%]
+======================================================
+if Fully_covered General_Class_2  is visited --> 97 % that SC_Not_Concentrated  is visited [support = 58.59%]
+======================================================
+if Fully_covered ST_Class_1  is visited --> 92 % that General_Class_2  is visited [support = 48.86%]
+======================================================
+if Fully_covered General_Class_2  is visited --> 95 % that ST_Not_Concentrated  is visited [support = 57.3%]
+======================================================
+if Fully_covered ST_Not_Concentrated  is visited --> 92 % that General_Class_2  is visited [support = 57.3%]
+======================================================
+if Fully_covered ST_Class_1  is visited --> 96 % that SC_Not_Concentrated  is visited [support = 51.22%]
+======================================================
+if Fully_covered ST_Not_Concentrated  is visited --> 96 % that SC_Not_Concentrated  is visited [support = 59.99%]
+======================================================
+if Fully_covered ST_Class_1  is visited --> 99 % that ST_Not_Concentrated  is visited [support = 52.85%]
+======================================================
+if SC_Class_2  is visited --> 96 % that General_Class_2 SC_Not_Concentrated  is visited [support = 42.54%]
+======================================================
+if General_Class_2 SC_Class_2  is visited --> 100 % that SC_Not_Concentrated  is visited [support = 42.54%]
+======================================================
+if SC_Not_Concentrated SC_Class_2  is visited --> 96 % that General_Class_2  is visited [support = 42.54%]
+======================================================
+if SC_Class_2  is visited --> 92 % that General_Class_2 ST_Not_Concentrated  is visited [support = 41.08%]
+======================================================
+if General_Class_2 SC_Class_2  is visited --> 96 % that ST_Not_Concentrated  is visited [support = 41.08%]
+======================================================
+if ST_Not_Concentrated SC_Class_2  is visited --> 99 % that General_Class_2  is visited [support = 41.08%]
+======================================================
+if General_Class_2 ST_Class_1  is visited --> 97 % that SC_Not_Concentrated  is visited [support = 60.77%]
+======================================================
+if ST_Class_1 SC_Not_Concentrated  is visited --> 90 % that General_Class_2  is visited [support = 60.77%]
+======================================================
+if General_Class_2  is visited --> 93 % that ST_Not_Concentrated SC_Not_Concentrated  is visited [support = 74.73%]
+======================================================
+if General_Class_2 SC_Not_Concentrated  is visited --> 95 % that ST_Not_Concentrated  is visited [support = 74.73%]
+======================================================
+if General_Class_2 ST_Not_Concentrated  is visited --> 97 % that SC_Not_Concentrated  is visited [support = 74.73%]
+======================================================
+if ST_Not_Concentrated SC_Not_Concentrated  is visited --> 91 % that General_Class_2  is visited [support = 74.73%]
+======================================================
+if ST_Class_1  is visited --> 90 % that General_Class_2 ST_Not_Concentrated  is visited [support = 62.35%]
+======================================================
+if General_Class_2 ST_Class_1  is visited --> 99 % that ST_Not_Concentrated  is visited [support = 62.35%]
+======================================================
+if ST_Class_1 ST_Not_Concentrated  is visited --> 90 % that General_Class_2  is visited [support = 62.35%]
+======================================================
+if SC_Class_2  is visited --> 93 % that ST_Not_Concentrated SC_Not_Concentrated  is visited [support = 41.26%]
+======================================================
+if SC_Not_Concentrated SC_Class_2  is visited --> 93 % that ST_Not_Concentrated  is visited [support = 41.26%]
+======================================================
+if ST_Not_Concentrated SC_Class_2  is visited --> 100 % that SC_Not_Concentrated  is visited [support = 41.26%]
+======================================================
+if ST_Class_1  is visited --> 96 % that ST_Not_Concentrated SC_Not_Concentrated  is visited [support = 66.75%]
+======================================================
+if ST_Class_1 SC_Not_Concentrated  is visited --> 99 % that ST_Not_Concentrated  is visited [support = 66.75%]
+======================================================
+if ST_Class_1 ST_Not_Concentrated  is visited --> 97 % that SC_Not_Concentrated  is visited [support = 66.75%]
+======================================================
+if Fully_covered General_Class_2 ST_Class_1  is visited --> 97 % that SC_Not_Concentrated  is visited [support = 47.41%]
+======================================================
+if Fully_covered ST_Class_1 SC_Not_Concentrated  is visited --> 92 % that General_Class_2  is visited [support = 47.41%]
+======================================================
+if Fully_covered General_Class_2  is visited --> 92 % that ST_Not_Concentrated SC_Not_Concentrated  is visited [support = 55.83%]
+======================================================
+if Fully_covered ST_Not_Concentrated  is visited --> 90 % that General_Class_2 SC_Not_Concentrated  is visited [support = 55.83%]
+======================================================
+if Fully_covered General_Class_2 SC_Not_Concentrated  is visited --> 95 % that ST_Not_Concentrated  is visited [support = 55.83%]
+======================================================
+if Fully_covered General_Class_2 ST_Not_Concentrated  is visited --> 97 % that SC_Not_Concentrated  is visited [support = 55.83%]
+======================================================
+if Fully_covered ST_Not_Concentrated SC_Not_Concentrated  is visited --> 93 % that General_Class_2  is visited [support = 55.83%]
+======================================================
+if Fully_covered ST_Class_1  is visited --> 92 % that General_Class_2 ST_Not_Concentrated  is visited [support = 48.78%]
+======================================================
+if Fully_covered General_Class_2 ST_Class_1  is visited --> 99 % that ST_Not_Concentrated  is visited [support = 48.78%]
+======================================================
+if Fully_covered ST_Class_1 ST_Not_Concentrated  is visited --> 92 % that General_Class_2  is visited [support = 48.78%]
+======================================================
+if Fully_covered ST_Class_1  is visited --> 96 % that ST_Not_Concentrated SC_Not_Concentrated  is visited [support = 51.13%]
